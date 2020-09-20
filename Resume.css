@@ -1,0 +1,58 @@
+body{
+  font-size : 120%;
+}
+h1{
+  background: orange;
+  text-align : center;
+  border-style: ridge;
+  border-width: 5px;
+  padding:2%;
+  background-image: linear-gradient(to right, #bcedbe, #f6faf1);
+
+}
+h2.one{
+  padding : 2%;
+  background: #bcedbe;  
+}
+h2.two{
+  width: 50%;
+  padding:1%;
+  background: #bcedbe;
+}
+.skills{
+  display : inline-block;  
+  float : right;
+  width : 37%;
+  display : inline-block;
+  text-align : left;
+}
+.contact{
+  display : inline-block;
+  width : 37%;
+  margin-left : 33%; 
+  float : right;
+}
+.details{
+  display : inline-block;
+  width : 37%;
+  float : right;
+}
+.Edu{
+  margin-top : 4%;
+  margin-left : 2%;
+}
+
+.aboutme{
+ margin-top : 4%;
+  margin-left : 2%;
+  width : 50%;
+}
+
+.Exp{
+  margin-top : 5%;
+  margin-left : 2%;
+}
+.achievements{
+  margin-top : 5%;
+  margin-left : 2%;
+}
